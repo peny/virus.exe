@@ -1,6 +1,6 @@
 {
   "name": "virus.exe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A really cool package for really cool people",
   "main": "index.js",
   "scripts": {
