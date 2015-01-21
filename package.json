@@ -4,6 +4,7 @@
   "description": "A really cool package for really cool people",
   "main": "index.js",
   "scripts": {
+    "install": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
